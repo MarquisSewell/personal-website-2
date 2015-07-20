@@ -62,13 +62,14 @@ a:hover {
   height: 100px;
   padding: 10px;
   margin: 0;
+  color: Maroon;
+  background-color: Maroon;
 }
 ul.nav {
   margin: 20px;
   padding: 0;
   background-color: Maroon;
   width: 90%;
-  color: Maroon;
 }
 .nav li a {
   background-color:White;
