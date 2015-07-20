@@ -59,7 +59,7 @@ a:hover {
 .nav li {
     display: inline-block;
   list-style:none;
-  height: 25px;
+  height: 100px;
   padding: 10px;
   margin: 0;
 }
