@@ -70,12 +70,12 @@ ul.nav {
   width: 90%
 }
 .nav li a {
-  background-color:Green;
+  background-color:Maroon;
   text-decoration: none;
   padding: 5px 10px;
   float: left;
   width: auto;
-  border-right: solid 1px Maroon;
+  border-right: solid 1px White;
   text-transform: uppercase;
 }
 
